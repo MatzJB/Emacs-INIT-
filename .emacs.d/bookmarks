@@ -1,0 +1,50 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("try"
+ (filename . "c:/Users/User/Dropbox/Dropbox/Projects/python/webcam wall/readImg.py")
+ (front-context-string . "\n	try:\n		browser")
+ (rear-context-string . "me = \"tmp_bock\"\n")
+ (position . 993))
+("URL"
+ (filename . "c:/Users/User/Dropbox/Dropbox/Projects/python/webcam wall/readImg.py")
+ (front-context-string . "URL = \"https://w")
+ (rear-context-string . "os\nimport glob\n\n")
+ (position . 150))
+("for loop"
+ (filename . "c:/Users/User/Dropbox/Dropbox/Projects/python/webcam wall/readImg.py")
+ (front-context-string . "\n	try:\n		browser")
+ (rear-context-string . "me = \"tmp_bock\"\n")
+ (position . 993))
+("globals"
+ (filename . "c:/Users/User/Dropbox/Dropbox/Projects/python/webcam wall/readImg.py")
+ (front-context-string . "\n\nbrowser = webd")
+ (rear-context-string . "ame = \"Niagara\"\n")
+ (position . 218))
+("loop"
+ (filename . "c:/Users/User/Dropbox/Dropbox/Projects/python/webcam wall/readImg.py")
+ (front-context-string . "\"tmp_bock\"\n\n	try")
+ (rear-context-string . "	tmp_filename = ")
+ (position . 982))
+("numpy"
+ (filename . "c:/Users/User/Dropbox/RapidResearch/python/create-NCS-table.py")
+ (front-context-string . "RGB = np.zeros([")
+ (rear-context-string . " range(ncols)]\n\n")
+ (position . 1281))
+("file write"
+ (filename . "c:/Users/User/Dropbox/RapidResearch/python/create-NCS-table.py")
+ (front-context-string . "f1 = open('outpu")
+ (rear-context-string . "B.json\",'w'))\n\n\n")
+ (position . 2981))
+("while"
+ (filename . "c:/Users/User/Dropbox/RapidResearch/python/create-NCS-table.py")
+ (front-context-string . "        while le")
+ (rear-context-string . "ar color letter\n")
+ (position . 2150))
+("RGB"
+ (filename . "c:/Users/User/Dropbox/RapidResearch/python/create-NCS-table.py")
+ (front-context-string . "\n#np.savetxt(\"fo")
+ (rear-context-string . ", dtype=np.int)\n")
+ (position . 1324))
+)

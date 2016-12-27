@@ -1,0 +1,295 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue Dec 27 00:29:42 2016
+;; Desktop file format version 208
+;; Emacs version 25.1.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22625 42982 139170 800000) (desktop . "208") "User@User-Inet" nil nil ((((font-backend uniscribe gdi) (font . "-outline-Lucida Console-normal-normal-normal-mono-15-*-*-*-c-*-iso8859-1") (border-width . 2) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "white") (background-color . "black") (mouse-color . "OrangeRed") (border-color . "gold") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (alpha 85 . 50) (menu-bar-lines . 1) (tool-bar-lines . 0) (height . 48) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 0) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "red") (environment) (frameset--id . "EDEF-870B-7E59-47DF") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (visibility . t) (display . "w32") (explicit-name) (tool-bar-position . top) (width . 71) (left + -683) (top . 408)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 9) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 60) (min-pixel-width . 90) (min-pixel-height-ignore . 45) (min-pixel-width-ignore . 81) (min-pixel-height-safe . 15) (min-pixel-width-safe . 18)) leaf (pixel-width . 675) (pixel-height . 707) (total-width . 75) (total-height . 47) (normal-height . 1.0) (normal-width . 1.0) (buffer ".emacs" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 3) (scroll-bars nil 2 t nil 0 t) (vscroll . 0) (dedicated) (point . 186) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("pass" "patt" "patt:" "opacity" "transpa" "rendert" "midi" "gt" "lt" "c-b" "goto" "opengl" "pyq" "qmainwi" "pyqt" "display"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("c:/Users/User/Dropbox/Graphics_programming/projects/midi/tests/tests.py" "~/.emacs" "c:/Users/User/Dropbox/Graphics_programming/projects/midi/test.py" "c:/Users/User/Dropbox/Graphics_programming/projects/vrscene_viewer/viewer5.py" "c:/Users/User/Dropbox/Graphics_programming/projects/vrscene_viewer/viewer4.py" "c:/Users/User/Dropbox/Graphics_programming/projects/2d game engine/Kajsa-Mario-World/Mario-Level-1-master/data/main.py" "c:/Users/User/Dropbox/Graphics_programming/projects/2d game engine/" "c:/Users/User/Dropbox/Dropbox/Projects/python/pyqt_test.py" "c:/Users/User/Dropbox/Graphics_programming/projects/vrscene_viewer/l" "~/.emacs" "c:/Users/User/Dropbox/Graphics_programming/projects/vrscene_viewer/joystick_test.py" "c:/Users/User/Dropbox/Graphics_programming/projects/vrscene_viewer/viewer3.py" "c:/Users/User/Dropbox/Graphics_programming/projects/vrscene_viewer/viewer2.py" "c:/Users/User/Dropbox/Graphics_programming/projects/vrscene_viewer/viewer.py" "~/.emacs" "c:/Bock 2016/test_3.py" "c:/Bock 2016/test_1.py" "c:/Users/User/Dropbox/Graphics_programming/projects/vrscene_viewer/viewer.py" "c:/Users/User/Dropbox/Dropbox/projects/python/midi2txt/midi2txt.py" "c:/WEBCAM SCRAPES/Datencenter/readImg.py" "c:/Users/User/Dropbox/Dropbox/Projects/python/webcam wall/readImg.py" "c:/Users/User/Dropbox/Dropbox/Projects/python/webcam wall/CamWallManager.py" "c:/Users/User/Dropbox/RapidResearch/python/wallpaper_revolver.py" "c:/Bock 2016/test_3.py" "c:/Bock 2016/test_2.py" "c:/Bock 2016/test_1.py" "c:/Users/User/Dropbox/Dropbox/Projects/python/webcam wall" "c:/test" "c:/Users/User/Dropbox/Dropbox/Projects/autohotkey" "c:/Users/User/Dropbox/Graphics_programming/projects/raytracer/Minimalist_PathTracer/test.txt" "c:/Users/User/Dropbox/Graphics_programming/projects/raytracer/Minimalist_PathTracer/smallpt4k.cpp" "c:/Users/User/AppData/Roaming/.emacs" "c:/Users/User/Dropbox/Graphics_programming/projects/raytracer/Minimalist_PathTracer/test.cpp"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "c:/Users/User/AppData/Roaming/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(auto-complete-mode linum-mode undo-tree-mode indent-guide-mode beacon-mode text-scale-mode)
+  186
+  '(1259 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-dos))
+  '((mark-ring (1079 4949 7626 4879 3060 1187 1850 1079 1850 38 38 61 61 61 133 432))))
+
+(desktop-create-buffer 208
+  "c:/Users/User/Dropbox/Graphics_programming/projects/midi/tests/tests.py"
+  "tests.py"
+  'python-mode
+  '(auto-complete-mode linum-mode undo-tree-mode indent-guide-mode beacon-mode)
+  349
+  '(924 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (924 349))))
+
+(desktop-create-buffer 208
+  "c:/Users/User/Dropbox/Graphics_programming/projects/midi/test.py"
+  "test.py"
+  'python-mode
+  '(auto-complete-mode linum-mode undo-tree-mode indent-guide-mode beacon-mode text-scale-mode)
+  149
+  '(215 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (215))))
+
+(desktop-create-buffer 208
+  "c:/Users/User/Dropbox/Graphics_programming/projects/vrscene_viewer/viewer5.py"
+  "viewer5.py"
+  'python-mode
+  '(auto-complete-mode linum-mode undo-tree-mode indent-guide-mode beacon-mode text-scale-mode)
+  5920
+  '(3153 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-dos))
+  '((mark-ring (1215 15 293 7047 1 1 269 133 5993 5993 5920))))
+
+(desktop-create-buffer 208
+  "c:/Users/User/Dropbox/Graphics_programming/projects/vrscene_viewer/viewer4.py"
+  "viewer4.py"
+  'python-mode
+  '(auto-complete-mode linum-mode undo-tree-mode indent-guide-mode beacon-mode)
+  3427
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-dos))
+  '((mark-ring (1 628 1197 2904 3643 3427))))
+
+(desktop-create-buffer 208
+  "c:/Users/User/Dropbox/Graphics_programming/projects/vrscene_viewer/viewer3.py"
+  "viewer3.py"
+  'python-mode
+  '(auto-complete-mode linum-mode undo-tree-mode indent-guide-mode beacon-mode)
+  439
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-dos))
+  '((mark-ring (1 2102 1968 672 426 549 439))))
+
+(desktop-create-buffer 208
+  nil
+  "2d game engine"
+  'dired-mode
+  '(linum-mode beacon-mode)
+  362
+  '(362 nil)
+  t
+  '("c:/Users/User/Dropbox/Graphics_programming/projects/2d game engine/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "c:/Users/User/Dropbox/Graphics_programming/projects/2d game engine/Kajsa-Mario-World/Mario-Level-1-master/data/main.py"
+  "main.py"
+  'python-mode
+  '(auto-complete-mode linum-mode undo-tree-mode indent-guide-mode beacon-mode)
+  572
+  '(572 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "c:/Users/User/Dropbox/Graphics_programming/projects/vrscene_viewer/joystick_test.py"
+  "joystick_test.py"
+  'python-mode
+  '(auto-complete-mode linum-mode undo-tree-mode indent-guide-mode beacon-mode)
+  2308
+  '(1833 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-dos) (fill-column . 33))
+  '((mark-ring (1 1526 1386 2820 4925 1 1 4949 4925 2847 2153))))
+
+(desktop-create-buffer 208
+  "c:/Users/User/Dropbox/Graphics_programming/projects/vrscene_viewer/viewer2.py"
+  "viewer2.py"
+  'python-mode
+  '(auto-complete-mode linum-mode undo-tree-mode indent-guide-mode beacon-mode)
+  464
+  '(194 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-dos))
+  '((mark-ring (1458 1457 1 1457 1457 1457 1457 1457 1457 1457 1457 1457 1457 1457 1457 464))))
+
+(desktop-create-buffer 208
+  "c:/Users/User/Dropbox/Graphics_programming/projects/vrscene_viewer/viewer.py"
+  "viewer.py"
+  'python-mode
+  '(auto-complete-mode linum-mode undo-tree-mode indent-guide-mode beacon-mode)
+  1
+  '(142 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-dos))
+  '((mark-ring (196 195 369 1021 122 1 1 120 120 120 120 1021 1021 397 369 369))))
+
+(desktop-create-buffer 208
+  "c:/Users/User/Dropbox/Graphics_programming/projects/raytracer/Minimalist_PathTracer/smallpt4k.cpp"
+  "smallpt4k.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode linum-mode undo-tree-mode indent-guide-mode beacon-mode)
+  770
+  '(818 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (831 1 1 5685 2323 813 818 739 770))))
+
+(desktop-create-buffer 208
+  "c:/Bock 2016/test_1.py"
+  "test_1.py"
+  'python-mode
+  '(auto-complete-mode linum-mode undo-tree-mode indent-guide-mode beacon-mode)
+  457
+  '(161 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-dos))
+  '((mark-ring (382 1355 1042 483 384 382 264 220 265 648 265 331 733 613 614 502))))
+
+(desktop-create-buffer 208
+  "c:/Bock 2016/test_3.py"
+  "test_3.py"
+  'python-mode
+  '(auto-complete-mode linum-mode undo-tree-mode indent-guide-mode beacon-mode)
+  92
+  '(79 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-dos))
+  '((mark-ring (57 91 91 2 91 91 1 91 91 91 1 1 91 91 91 92))))
+
+(desktop-create-buffer 208
+  "c:/Users/User/Dropbox/RapidResearch/python/wallpaper_revolver.py"
+  "wallpaper_revolver.py"
+  'python-mode
+  '(auto-complete-mode linum-mode undo-tree-mode indent-guide-mode beacon-mode)
+  1443
+  '(1622 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-dos))
+  '((mark-ring (399 1261 1435 1829 1443))))
+
+(desktop-create-buffer 208
+  "c:/WEBCAM SCRAPES/Datencenter/readImg.py"
+  "readImg.py"
+  'python-mode
+  '(auto-complete-mode linum-mode undo-tree-mode indent-guide-mode beacon-mode)
+  1340
+  '(1066 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-dos))
+  '((mark-ring (233 628 853 1352 891 627 1183 1066 891 923 1261))))
+
+(desktop-create-buffer 208
+  "c:/Users/User/Dropbox/Dropbox/Projects/python/webcam wall/readImg.py"
+  "readImg.py"
+  'python-mode
+  '(auto-complete-mode linum-mode undo-tree-mode indent-guide-mode beacon-mode)
+  916
+  '(435 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-dos))
+  '((mark-ring (522 522 481 367 235 330 325 1811 1 276 1362 284 1811 1370 1811 1151))))
+
+(desktop-create-buffer 208
+  "c:/Bock 2016/test_2.py"
+  "test_2.py"
+  'python-mode
+  '(auto-complete-mode linum-mode undo-tree-mode indent-guide-mode beacon-mode)
+  168
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-dos))
+  '((mark-ring (168 168 1 168 168 168 168 168 168 168 168 168 1 1))))
+
+(desktop-create-buffer 208
+  "c:/Users/User/Dropbox/Dropbox/Projects/python/webcam wall/CamWallManager.py"
+  "CamWallManager.py"
+  'python-mode
+  '(auto-complete-mode linum-mode undo-tree-mode indent-guide-mode beacon-mode)
+  1356
+  '(1218 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-dos))
+  '((mark-ring (943 798 797 797 796 1356))))
+
+(desktop-create-buffer 208
+  nil
+  "webcam wall"
+  'dired-mode
+  '(linum-mode beacon-mode)
+  247
+  '(nil nil)
+  t
+  '("c:/Users/User/Dropbox/Dropbox/Projects/python/webcam wall/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "c:/Users/User/Dropbox/Graphics_programming/projects/raytracer/Minimalist_PathTracer/test.txt"
+  "test.txt"
+  'text-mode
+  '(linum-mode undo-tree-mode indent-guide-mode beacon-mode)
+  22
+  '(25 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-dos))
+  '((mark-ring (1 9 1 11 9 13 8 14 6))))
+
+(desktop-create-buffer 208
+  nil
+  "*eww*"
+  'eww-mode
+  '(linum-mode undo-tree-mode beacon-mode)
+  1
+  '(1 nil)
+  t
+  '(:history ((:title "Google" :url "http://www.google.se/?gfe_rd=cr&ei=MhJEWI2IK4mr8wfGlJ-gCg" :point 129) (:title "Google" :url "http://www.google.se/?gfe_rd=cr&ei=KBFEWLHcBYGr8wfnxoGADg" :point 111) (:title "Brazilian fart porn | Redtube Free Wild & Crazy Porn Videos, Lesbian Movies & Latina Clips" :url "http://www.redtube.com/10147" :point 1) (:title "Brazilian Fart Porn - Pornhub.com" :url "http://www.pornhub.com/view_video.php?viewkey=1990157844" :point 25) (:title "brazilian fart porn - SÅˆk pÅÂ Google" :url "http://www.google.se/search?gbv=1&bih=&biw=&source=hp&hl=sv&ie=ISO-8859-1&btnG=S%F6k+p%E5+Google&q=brazilian+fart+porn" :point 181) (:title "Google" :url "http://www.google.se/?gfe_rd=cr&ei=5QxEWPXvIo6r8wf16YvABA" :point 129) (:title "google at DuckDuckGo" :url "https://duckduckgo.com/html/?q=google" :point 44)))
+  '((buffer-file-coding-system . utf-8-dos) (truncate-lines . t) (eww-history-position . 0))
+  '((mark-ring (1 1 1 1 1 1 1))))
+
+(desktop-create-buffer 208
+  "c:/Users/User/Dropbox/Graphics_programming/projects/raytracer/Minimalist_PathTracer/test.cpp"
+  "test.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode linum-mode undo-tree-mode indent-guide-mode beacon-mode)
+  983
+  '(396 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos))
+  '((mark-ring (474 413 598 998 983 1240 983))))
+

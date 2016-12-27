@@ -1,0 +1,23 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '((".stackoverflow.com"
+  [url-cookie "prov" "bfbf0b35-7aa1-5290-5127-72c19107b00d" "01-Jan-2055 00:00:00.00 GMT" "/" ".stackoverflow.com" nil]
+  [url-cookie "HttpOnly" nil "01-Jan-2055 00:00:00.00 GMT" "/" ".stackoverflow.com" nil])
+ ("pornhub.com"
+  [url-cookie "platform" "pc" "09-Nov-2063 02:14:48.00 GMT" "/" "pornhub.com" nil]
+  [url-cookie "Max-Age" "1796216844" "05-Nov-2073 02:14:48.00 GMT" "/" "pornhub.com" nil]
+  [url-cookie "ss" "616942841000835471" "04-Dec-2017 13:07:24.00 GMT" "/" "pornhub.com" nil]
+  [url-cookie "bs" "jzn1fehcij0kr5g9sooiol6f925s316o" "05-Nov-2073 02:14:48.00 GMT" "/" "pornhub.com" nil])
+ (".google.se"
+  [url-cookie "HttpOnly" nil "05-Jun-2017 10:19:11.00 GMT" "/" ".google.se" nil]
+  [url-cookie "NID" "91=QQINdoi0ME_Q16gRhswlMYiahPS-1clKFiFoD_ng0AvWqt8ImWNyvSFjTc5IvR7lEKbSb5xkB4WKm52Li5ovrw9El6-BQSmWbVv8XGay53Hh62lHnAE-Ai5QunIiHzdj" "05-Jun-2017 10:19:11.00 GMT" "/" ".google.se" nil]))
+)
+(setq url-cookie-secure-storage
+ 'nil)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:
